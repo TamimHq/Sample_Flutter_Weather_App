@@ -1,4 +1,4 @@
-# 🌦️ Sample_Flutter_Weather_App
+# 🌦️ Simple_Flutter_Weather_App
 
 A simple and elegant Flutter weather application built using **GetX** for state management and navigation. This app fetches real-time weather data using the **OpenWeatherMap API**, includes a stylish **splash screen animation**, and demonstrates clean architecture with controller separation.
 
