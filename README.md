@@ -38,8 +38,8 @@ A simple and elegant Flutter weather application built using **GetX** for state 
 ### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/TamimHq/Sample_Flutter_Weather_App.git
-cd Sample_Flutter_Weather_App
+git clone https://github.com/TamimHq/Simple_Flutter_Weather_App.git
+cd Simple_Flutter_Weather_App
 ```
 
 ### 2. **Install dependencies**
