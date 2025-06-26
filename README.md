@@ -6,12 +6,11 @@ A simple and elegant Flutter weather application built using **GetX** for state 
 
 ## 📱 Screenshots
 
-| Splash Screen | Weather Info |
-|---------------|--------------|
-| ![Splash](assets/screenshots/splash.png) | ![Weather](assets/screenshots/weather.png) |
+<p align="center">
+  <img src="assets/screenshots/splash.png" alt="Splash Screen" width="250"/>
+  <img src="assets/screenshots/weather.png" alt="Weather Screen" width="250"/>
+</p>
 
-
----
 
 ## 🚀 Features
 
