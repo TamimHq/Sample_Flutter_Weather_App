@@ -8,6 +8,8 @@ A simple and elegant Flutter weather application built using **GetX** for state 
 
 <p align="center">
   <img src="assets/screenshots/splash.png" alt="Splash Screen" width="250"/>
+  <img src="assets/screenshots/splash.png" alt="Splash Screen" width="250"/>
+
 </p>
 
 
