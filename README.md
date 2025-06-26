@@ -1,4 +1,4 @@
-# 🌦️ Flutter Weather App (GetX)
+# 🌦️ Sample_Flutter_Weather_App
 
 A simple and elegant Flutter weather application built using **GetX** for state management and navigation. This app fetches real-time weather data using the **OpenWeatherMap API**, includes a stylish **splash screen animation**, and demonstrates clean architecture with controller separation.
 
@@ -6,13 +6,11 @@ A simple and elegant Flutter weather application built using **GetX** for state 
 
 ## 📱 Screenshots
 
-| Splash Screen | Weather Info |
-|---------------|--------------|
-| ![Splash](assets/screenshots/splash.png) | ![Weather](assets/screenshots/weather.png) |
+<p align="center">
+  <img src="assets/screenshots/splash.png" alt="Splash Screen" width="250"/>
+  <img src="assets/screenshots/weather.png" alt="Weather Screen" width="250"/>
+</p>
 
-> *(You can update the image paths or upload real screenshots)*
-
----
 
 ## 🚀 Features
 
@@ -39,8 +37,8 @@ A simple and elegant Flutter weather application built using **GetX** for state 
 ### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/flutter-weather-getx.git
-cd flutter-weather-getx
+git clone https://github.com/TamimHq/Sample_Flutter_Weather_App.git
+cd Sample_Flutter_Weather_App
 ```
 
 ### 2. **Install dependencies**
@@ -117,9 +115,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 👤 Author
 
-**Your Name**  
-🔗 [Your GitHub](https://github.com/yourusername)  
-📧 your.email@example.com
+**Tamim Haque**  
+🔗 [Your GitHub](https://github.com/TamimHq)  
+📧 tamimhaque13@gmail.com
 
 ---
 
