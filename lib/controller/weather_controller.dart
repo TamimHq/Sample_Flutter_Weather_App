@@ -14,7 +14,7 @@ class WeatherController extends GetxController {
     error.value = '';
     try {
       final apiKey =
-          '0094832badf434d43200d7cbbaccbb11'; // Replace with your OpenWeatherMap API key
+          'API_KEY'
       final url =
           'https://api.openweathermap.org/data/2.5/weather?q=$city&appid=$apiKey&units=metric';
       final response = await http.get(Uri.parse(url));
